@@ -1,2 +1,2 @@
 Texto de prueba
-Cambiando el texto de prueba
+Este es un texto de prueba modificado.
